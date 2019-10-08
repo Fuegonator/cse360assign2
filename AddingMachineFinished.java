@@ -6,7 +6,7 @@
  * a total and documenting the actions in the order they
  * were performed.
  */
- 
+
 package cse360assign2;
 
 public class AddingMachineFinished {//This class contains methods to run various 
