@@ -36,4 +36,4 @@ public class AddingMachine {
 	public void clear() {
 	
 	}
-}
+} 
