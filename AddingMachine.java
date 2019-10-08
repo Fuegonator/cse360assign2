@@ -2,6 +2,9 @@
  * Name: Connor Seawright
  * Class ID: 70641
  * Assignment: 2
+ * This code is for adding or subtracting numbers from 
+ * a total and documenting the actions in the order they
+ * were performed.
  */
 
 package cse360assign2;
